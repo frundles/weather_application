@@ -6,3 +6,10 @@ class WeatherDisplay:
 class WeatherApp:
     """Основной класс приложения, реализует Мария"""
     pass
+
+
+
+
+class WeatherTestClass:
+    """Класс на всякий случай, пусть тоже реализует Мария"""
+    pass
